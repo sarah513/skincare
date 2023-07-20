@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.46b9e2a1.css",
-    "main.js": "./static/js/main.c27471ab.js",
+    "main.js": "./static/js/main.7f9380ff.js",
     "static/js/787.cda612ba.chunk.js": "./static/js/787.cda612ba.chunk.js",
     "static/media/SKIN.jpg": "./static/media/SKIN.8e3a355c6d01297c3ba8.jpg",
     "static/media/some.jpg": "./static/media/some.716d31a42ad431a6fa10.jpg",
@@ -10,22 +10,26 @@
     "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/1.jpeg": "./static/media/1.d8e6124084f32cbb12f1.jpeg",
     "static/media/ton.jpeg": "./static/media/ton.aae6b9b793b257e5ff69.jpeg",
     "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/ser.jpeg": "./static/media/ser.29cd89356884f873d34d.jpeg",
     "static/media/sun.jpeg": "./static/media/sun.aeb6afeb3137de86fba6.jpeg",
-    "static/media/moist.jpeg": "./static/media/moist.cc07810998ac6b186d9c.jpeg",
+    "static/media/clean.jpeg": "./static/media/clean.e51aa184c488fe29dea5.jpeg",
+    "static/media/lip.jpeg": "./static/media/lip.1c0667580f711e008244.jpeg",
+    "static/media/mo.jpeg": "./static/media/mo.8e5cdc243ce54c59bf9c.jpeg",
+    "static/media/eye.jpeg": "./static/media/eye.436cd40e163be5b12496.jpeg",
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
     "main.46b9e2a1.css.map": "./static/css/main.46b9e2a1.css.map",
-    "main.c27471ab.js.map": "./static/js/main.c27471ab.js.map",
+    "main.7f9380ff.js.map": "./static/js/main.7f9380ff.js.map",
     "787.cda612ba.chunk.js.map": "./static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46b9e2a1.css",
-    "static/js/main.c27471ab.js"
+    "static/js/main.7f9380ff.js"
   ]
 }
